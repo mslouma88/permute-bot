@@ -5,11 +5,17 @@ SERIS Permute Bot est un assistant intelligent pour la gestion des permutations 
 ### Fonctionnalités :
 
 • Import automatique du planning PDF
+
 • Détection des vacations jour et nuit
+
 • Gestion des binômes
+
 • Recherche automatique de remplaçants
+
 • Notifications privées Discord
+
 • Validation par chef d'équipe et responsable
+
 • Historique des permutes
 
 ### Technologies :
