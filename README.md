@@ -20,10 +20,10 @@ SERIS Permute Bot est un assistant intelligent pour la gestion des permutations 
 
 ### Technologies :
 
-Python
-Discord API
-SQLite
-PDFPlumber
+• Python 
+• Discord API 
+• SQLite 
+• PDFPlumber 
 
 Ce bot simplifie la gestion des plannings et améliore la communication entre agents sur le site INTERXION Marseille MRS2.
 
